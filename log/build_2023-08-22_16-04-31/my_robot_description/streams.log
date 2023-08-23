@@ -1,0 +1,44 @@
+[0.015s] Invoking command in '/home/pknadimp/gazebo_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pknadimp/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/pknadimp/gazebo_ws/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/pknadimp/gazebo_ws/install/my_robot_description
+[0.218s] -- The C compiler identification is GNU 11.4.0
+[0.368s] -- The CXX compiler identification is GNU 11.4.0
+[0.386s] -- Detecting C compiler ABI info
+[0.475s] -- Detecting C compiler ABI info - done
+[0.481s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.482s] -- Detecting C compile features
+[0.483s] -- Detecting C compile features - done
+[0.488s] -- Detecting CXX compiler ABI info
+[0.576s] -- Detecting CXX compiler ABI info - done
+[0.582s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.582s] -- Detecting CXX compile features
+[0.583s] -- Detecting CXX compile features - done
+[0.590s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.760s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.930s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.021s] -- Added test 'lint_cmake' to check CMake code style
+[1.023s] -- Added test 'xmllint' to check XML markup files
+[1.025s] -- Configuring done
+[1.028s] -- Generating done
+[1.029s] -- Build files have been written to: /home/pknadimp/gazebo_ws/build/my_robot_description
+[1.035s] Invoked command in '/home/pknadimp/gazebo_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pknadimp/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/pknadimp/gazebo_ws/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/pknadimp/gazebo_ws/install/my_robot_description
+[1.036s] Invoking command in '/home/pknadimp/gazebo_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pknadimp/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/pknadimp/gazebo_ws/build/my_robot_description -- -j4 -l4
+[1.079s] Invoked command in '/home/pknadimp/gazebo_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pknadimp/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/pknadimp/gazebo_ws/build/my_robot_description -- -j4 -l4
+[1.117s] Invoking command in '/home/pknadimp/gazebo_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pknadimp/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/pknadimp/gazebo_ws/build/my_robot_description
+[1.124s] -- Install configuration: ""
+[1.125s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/my_robot_description//urdf
+[1.126s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf
+[1.126s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[1.126s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[1.126s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[1.126s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[1.127s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/my_robot_description/environment/path.sh
+[1.127s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[1.127s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/my_robot_description/local_setup.bash
+[1.127s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/my_robot_description/local_setup.sh
+[1.128s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[1.128s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[1.128s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/my_robot_description/package.dsv
+[1.128s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[1.128s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[1.128s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[1.128s] -- Installing: /home/pknadimp/gazebo_ws/install/my_robot_description/share/my_robot_description/package.xml
+[1.131s] Invoked command in '/home/pknadimp/gazebo_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pknadimp/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/pknadimp/gazebo_ws/build/my_robot_description

@@ -5,7 +5,7 @@
     <xacro:property name="base_width" value="0.4" />
     <xacro:property name="base_height" value="0.2" />
     <xacro:property name="wheel_radius" value="0.1" />
-    <xacro:property name="wheel_length" value="0.05" />
+    <xacro:property name="wheel_length" value="0.1" />
 
     <xacro:macro name="wheel_link" params="prefix">
         <link name="${prefix}_wheel_link">
